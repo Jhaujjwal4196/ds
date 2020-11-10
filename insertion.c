@@ -229,6 +229,7 @@ printf("Please Enter the size of array:\t");
       default:
       printf("\nInvalid option provided:");
         }}while(x!=7);
+        printf("Jha");
          
     }
 
