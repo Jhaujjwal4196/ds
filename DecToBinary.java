@@ -7,7 +7,7 @@ int x;
 Scanner sc = new Scanner(System.in);
 System.out.println("plesae provide us the digit you wanna convert:\n");
 x= sc.nextInt();
-int m=x;
+
 int arr[]= new int[40];
 int index=0;
 while(x>0){
@@ -25,6 +25,5 @@ public class DecToBinary{
     public static void main(String[] args) {
         Converter c1= new Converter();
         c1.convertBinary();
-
     }
 }

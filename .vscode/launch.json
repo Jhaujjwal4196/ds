@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "CodeLens (Launch) - DecToBinary",
+            "request": "launch",
+            "mainClass": "DecToBinary",
+            "projectName": "ds 10_78bc26f7"
+        },
+        {
             "name": "gcc.exe - Build and debug active file",
             "type": "cppdbg",
             "request": "launch",
